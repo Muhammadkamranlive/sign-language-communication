@@ -1,4 +1,4 @@
-# sign-language
+# end to end sign-language communication
 This repository is about end to end communication between physically hearing impairment(person1) and outer world(person2).
 
 from person1 to person2:
