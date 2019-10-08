@@ -21,8 +21,8 @@ from person2 to person1:
 <br>
 4.Using  GAN video is generated.
 
-**video generation using GAN.**
-**This is bold text**
+**Video generation using GAN.**
+
 
 
 ![sign2](https://user-images.githubusercontent.com/48018142/66250873-3f86f380-e766-11e9-8680-49925ccf8211.JPG)
