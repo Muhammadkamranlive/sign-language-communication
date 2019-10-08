@@ -21,6 +21,9 @@ from person2 to person1:
 <br>
 4.Using  GAN video is generated.
 
+** NLP techniques output**
+
+
 **Video generation using GAN.**
 
 
