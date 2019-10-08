@@ -23,7 +23,7 @@ from person2 to person1:
 
 
 ## NLP techniques output ##
-
+<br>
 **german to gloss **
 
 ![germantogloss](https://user-images.githubusercontent.com/48018142/66399424-36fc1a80-e9fd-11e9-84a6-3f0a8017fd61.JPG)
