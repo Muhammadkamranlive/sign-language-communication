@@ -21,7 +21,11 @@ from person2 to person1:
 <br>
 4.Using  GAN video is generated.
 
-** NLP techniques output**
+
+**NLP techniques output**
+
+![germantogloss](https://user-images.githubusercontent.com/48018142/66399424-36fc1a80-e9fd-11e9-84a6-3f0a8017fd61.JPG)
+![glosstogerman](https://user-images.githubusercontent.com/48018142/66399425-36fc1a80-e9fd-11e9-9f7d-4155823d8f64.JPG)
 
 
 **Video generation using GAN.**
