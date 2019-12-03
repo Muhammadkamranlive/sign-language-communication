@@ -23,8 +23,8 @@ from person2 to person1:
 
 
 ## NLP techniques output ##
-
-The given below are results fir NLP techniques.
+the results below are taken from phenoix weather dataset for sign langauge.
+https://github.com/neccam/nslt.
 
 **german to gloss **
 
