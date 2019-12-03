@@ -11,3 +11,13 @@ from person1 to person2:
 3.from body points and locations we map the sign gloss.
 <br>
 4.from sign gloss to english is translated through NLP techniques.
+<br>
+**gloss to german**
+
+![glosstogerman](https://user-images.githubusercontent.com/48018142/66399425-36fc1a80-e9fd-11e9-9f7d-4155823d8f64.JPG)
+<br>
+resources: 
+<br>
+
+<br> https://github.com/tensorflow/nmt/tree/tf-1.2<br>
+<br>https://github.com/neccam/nslt.<br>
