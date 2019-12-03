@@ -29,6 +29,10 @@ resources:
 <br> https://github.com/tensorflow/nmt/tree/tf-1.2<br>
 <br>https://github.com/neccam/nslt.<br>
 
+
+
+
+
 ## Video generation using GAN. ##
 
 ![out1](https://user-images.githubusercontent.com/48018142/70058448-eec83580-1604-11ea-97b3-264f7d35908b.png)
