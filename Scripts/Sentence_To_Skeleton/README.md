@@ -22,12 +22,7 @@ The results I achieved below are taken dataset from phenoix weather dataset for 
 ![germantogloss](https://user-images.githubusercontent.com/48018142/66399424-36fc1a80-e9fd-11e9-84a6-3f0a8017fd61.JPG)
 
 
-**gloss to german**
 
-![glosstogerman](https://user-images.githubusercontent.com/48018142/66399425-36fc1a80-e9fd-11e9-9f7d-4155823d8f64.JPG)
-<br>
-resources: 
-<br>
 <br> https://github.com/tensorflow/nmt/tree/tf-1.2<br>
 <br>https://github.com/neccam/nslt.<br>
 
