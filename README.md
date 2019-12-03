@@ -20,11 +20,11 @@ from person2 to person1:
 3.body points are generated from sign gloss.
 <br>
 4.Using  GAN video is generated.
-
+<br>
 
 ## NLP techniques output ##
-the results below are taken from phenoix weather dataset for sign langauge.
-https://github.com/neccam/nslt.
+The results below are achieved taking dataset from phenoix weather dataset for sign langauge by using Luong's attension based mechanism.
+<br>
 
 **german to gloss **
 
@@ -34,7 +34,11 @@ https://github.com/neccam/nslt.
 **gloss to german**
 
 ![glosstogerman](https://user-images.githubusercontent.com/48018142/66399425-36fc1a80-e9fd-11e9-9f7d-4155823d8f64.JPG)
-
+<br>
+resources: 
+<br>
+<br> https://github.com/tensorflow/nmt/tree/tf-1.2<br>
+<br>https://github.com/neccam/nslt.<br>
 
 ## Video generation using GAN. ##
 
