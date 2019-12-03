@@ -1,4 +1,4 @@
-# end to end sign-language communication
+# End to End Sign-Language Communication
 This repository is about end to end communication between physically hearing impairment(person1) and outer world(person2).
 
 from person1 to person2:
@@ -22,8 +22,9 @@ from person2 to person1:
 4.Using  GAN video is generated.
 <br>
 
+
 ## NLP techniques output ##
-The results below are achieved taking dataset from phenoix weather dataset for sign langauge by using Luong's attension based mechanism.
+The results I achieved below are taken dataset from phenoix weather dataset for sign langauge by using Luong's attension based mechanism.
 <br>
 
 **german to gloss **
