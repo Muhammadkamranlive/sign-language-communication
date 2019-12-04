@@ -37,20 +37,12 @@ training of gans are shown in https://github.com/saisriteja/sign-language-commun
 
 
 ## NLP techniques output ##
-The results I achieved below are taken dataset from phenoix weather dataset for sign langauge by using Luong's attension based mechanism.
+<br>The results I achieved below are taken dataset from phenoix weather dataset for sign langauge by using Luong's attension based mechanism.
 <br>
 
-**german to gloss **
+**german to gloss**
 
 ![germantogloss](https://user-images.githubusercontent.com/48018142/66399424-36fc1a80-e9fd-11e9-84a6-3f0a8017fd61.JPG)
-
-
-
-<br> https://github.com/tensorflow/nmt/tree/tf-1.2<br>
-<br>https://github.com/neccam/nslt.<br>
-
-
-
 
 
 ## Video generation using GAN. ##
@@ -58,3 +50,8 @@ The results I achieved below are taken dataset from phenoix weather dataset for 
 ![out1](https://user-images.githubusercontent.com/48018142/70058448-eec83580-1604-11ea-97b3-264f7d35908b.png)
 ![out2](https://user-images.githubusercontent.com/48018142/70058449-eec83580-1604-11ea-8281-e59b36c2e8a5.png)
 
+## RESOURCES ##
+DTW : https://pypi.org/project/dtw/
+PIX2PIX : https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+RWTH_BOSTON_dataset : https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php
+NLP(NMT): https://github.com/neccam/nslt 
