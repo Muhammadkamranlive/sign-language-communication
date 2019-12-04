@@ -18,6 +18,17 @@ from person2 to person1:
 
 
 
+## FILES ##
+<br>
+boston_preprocessing.py -- Writes a CSV file consisting of the sentence and respective video of each word in gloss.<br>
+<br>
+openpose.py -- extracts the skeleton frames from the frames of the video and stores in new file.<br>
+<br>
+dwt_boston104.py -- Dynamic time wrapping of wrists is done and a CSV file is made consisting of word and skeleton locations.<br>
+<br>
+training of gans are shown in https://github.com/saisriteja/sign-language-communication/blob/master/Scripts/Sentence_To_Skeleton/sign_language_sentence_to_video_generation.ipynb.
+<br>
+
 
 ## NLP techniques output ##
 The results I achieved below are taken dataset from phenoix weather dataset for sign langauge by using Luong's attension based mechanism.
