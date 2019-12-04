@@ -16,6 +16,12 @@ from person2 to person1:
 4.Using  GAN video is generated.
 <br>
 
+## DYNAMIC TIME WRAPPING ##
+<br>Postions of wrists,elbows,shoulder are plotted for a single video.<br>
+![download](https://user-images.githubusercontent.com/48018142/70103458-32e92380-1661-11ea-85ef-9e8e7f72e205.png)
+<br>Dynamic time wrapping of elbows and shoulder did not give a good result so I have used wrists and completed the task of dynamic time wrapping.<br>
+![download (1)](https://user-images.githubusercontent.com/48018142/70103636-ad19a800-1661-11ea-8321-5e8bbdc5053a.png)
+
 
 
 ## FILES ##
