@@ -55,5 +55,3 @@ training of gans are shown in https://github.com/saisriteja/sign-language-commun
 <br>PIX2PIX : https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix<br>
 <br>RWTH_BOSTON_dataset : https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php<br>
 <br>NLP(NMT): https://github.com/neccam/nslt <br>
-
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=1aWd-Y82Wc8)
