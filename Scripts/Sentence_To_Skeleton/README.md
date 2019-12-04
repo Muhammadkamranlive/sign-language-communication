@@ -51,7 +51,7 @@ training of gans are shown in https://github.com/saisriteja/sign-language-commun
 ![out2](https://user-images.githubusercontent.com/48018142/70058449-eec83580-1604-11ea-8281-e59b36c2e8a5.png)
 
 ## RESOURCES ##
-DTW : https://pypi.org/project/dtw/
-PIX2PIX : https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
-RWTH_BOSTON_dataset : https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php
-NLP(NMT): https://github.com/neccam/nslt 
+<br>DTW : https://pypi.org/project/dtw/<br>
+<br>PIX2PIX : https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix<br>
+<br>RWTH_BOSTON_dataset : https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php<br>
+<br>NLP(NMT): https://github.com/neccam/nslt <br>
