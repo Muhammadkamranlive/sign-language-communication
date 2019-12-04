@@ -46,7 +46,9 @@ training of gans are shown in https://github.com/saisriteja/sign-language-commun
 
 
 ## Video generation using GAN. ##
-![](video.mp4)
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
 
 
 ![out1](https://user-images.githubusercontent.com/48018142/70058448-eec83580-1604-11ea-97b3-264f7d35908b.png)
