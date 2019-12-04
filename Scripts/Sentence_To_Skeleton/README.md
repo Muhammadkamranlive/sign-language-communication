@@ -56,4 +56,4 @@ training of gans are shown in https://github.com/saisriteja/sign-language-commun
 <br>RWTH_BOSTON_dataset : https://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php<br>
 <br>NLP(NMT): https://github.com/neccam/nslt <br>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
