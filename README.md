@@ -20,9 +20,10 @@ from person2 to person1:
 ## DYNAMIC TIME WRAPPING ##
 <br>Postions of wrists,elbows,shoulder are plotted for a single video.<br>
 ![download](https://user-images.githubusercontent.com/48018142/70103458-32e92380-1661-11ea-85ef-9e8e7f72e205.png)
+<br>
 Using the dynamic time wrapping and linear interpolation the body poses are obtianed in a sequence so that the 
 video proceeds without any breaks.
-
+<br>
 
 ## FILES ##
 <br>
